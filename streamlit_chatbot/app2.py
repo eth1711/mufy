@@ -70,4 +70,4 @@ if st.button("Generate AI Excuse 🚀"):
 # FOOTER
 # -----------------------------------
 st.divider()
-st.caption("Powered by Gemini 2.5 Flash + Streamlit")
+st.caption("Powered by Gemini 2.5 Flash + Streamlit") 
