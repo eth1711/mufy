@@ -34,7 +34,7 @@ scenario = st.text_area(
 # -----------------------------------
 # GENERATE BUTTON
 # -----------------------------------
-if st.button("Generate AI Excuse 🚀"):
+if st.button("Generate Funny AI Excuse 🚀"):
 
     if scenario.strip() == "":
         st.warning("Please enter a scenario.")
